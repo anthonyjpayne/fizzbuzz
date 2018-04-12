@@ -1,0 +1,4 @@
+First basic run, which simply promps for a low and high number and plays fizzbuzz on all integers in between
+  fizz - multiples of 3
+  buzz - multiples of 5
+  fizzbuzz - multiples of 15
